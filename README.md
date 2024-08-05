@@ -2,6 +2,7 @@
 
 ## Javascript
 - [Coin Flip](https://github.com/kathylam204/coin-flip)
+- [FreeCodeCamp Survey Project](https://github.com/kathylam204/surveyform)
 
 ## Java
 - [Basic Calculator](https://github.com/kathylam204/calculator)
