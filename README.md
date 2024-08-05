@@ -5,7 +5,7 @@
 
 ## Java
 - [Basic Calculator](https://github.com/kathylam204/calculator)
-- [Random Number Generator](https://github.com/kathylam204/numbergenerator) (Kept the values low so it can be a makeshift DND Dice)
+- [Random Number Generator](https://github.com/kathylam204/numbergenerator)
 
 ## Python
 - [Password Generator](https://github.com/kathylam204/password-generator)
