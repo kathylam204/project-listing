@@ -10,20 +10,20 @@
 ## Python
 - [Password Generator](https://github.com/kathylam204/password-generator)
 
-## C#
-*(Projects coming soon)*
+[//]: ### C#
+[//]: #*(Projects coming soon)*
 
-## SQL
-*(Projects coming soon)*
+[//]: ### SQL
+[//]: #*(Projects coming soon)*
 
-## Typescript
-*(Projects coming soon)*
+[//]: ### Typescript
+[//]: #*(Projects coming soon)*
 
-## C++
-*(Projects coming soon)*
+[//]: ### C++
+[//]: #*(Projects coming soon)*
 
-## React
-*(Projects coming soon)*
+[//]: ### React
+[//]: #*(Projects coming soon)*
 
-## Go
-*(Projects coming soon)*
+[//]: ### Go
+[//]: #*(Projects coming soon)*
