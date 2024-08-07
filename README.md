@@ -1,3 +1,5 @@
+# [🌼 My Website]([https://github.com/kathylam204/coin-flip](https://kathylam204.github.io/))
+
 # 🗃️ Repo / Project Listing
 
 ## Javascript
