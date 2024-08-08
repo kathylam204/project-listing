@@ -1,6 +1,6 @@
-# [🌼 My Website](https://kathylam204.github.io/)
+# [🌼 My Website 🌼](https://kathylam204.github.io/)
 
-# 🗃️ Repo / Project Listing
+# 🗃️ Repo / Project Listing 🗃️
 
 ## Javascript
 - [Coin Flip](https://github.com/kathylam204/coin-flip)
