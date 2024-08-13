@@ -6,6 +6,7 @@
 - 
 
 ## Javascript
+- [Chess](https://github.com/kathylam204/chess)
 - [Coin Flip](https://github.com/kathylam204/coin-flip)
 - 
 
