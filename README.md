@@ -3,12 +3,10 @@
 # 🗃️ Repo / Project Listing 🗃️
 
 ## HTML
-- [FreeCodeCamp Survey Form Project](https://github.com/kathylam204/fccsurveyform)
-- [FreeCodeCamp Tribute Page Project](https://github.com/kathylam204/fcctributepage)
+- 
 
 ## Javascript
 - [Coin Flip](https://github.com/kathylam204/coin-flip)
-- 
 - 
 
 ## Java
@@ -20,9 +18,10 @@
 - [Password Generator](https://github.com/kathylam204/password-generator)
 - 
 
-## Coding Notes
-- Coming Soon
-
+## Free Code Camp
+- [FreeCodeCamp Survey Form Project](https://github.com/kathylam204/fccsurveyform)
+- [FreeCodeCamp Tribute Page Project](https://github.com/kathylam204/fcctributepage)
+- 
 <!---
 ## C#
 *(Projects coming soon)*
