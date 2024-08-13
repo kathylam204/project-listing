@@ -2,9 +2,13 @@
 
 # 🗃️ Repo / Project Listing 🗃️
 
+## HTML
+- [FreeCodeCamp Survey Form Project](https://github.com/kathylam204/fccsurveyform)
+- [FreeCodeCamp Tribute Page Project](https://github.com/kathylam204/fcctributepage)
+
 ## Javascript
 - [Coin Flip](https://github.com/kathylam204/coin-flip)
-- [FreeCodeCamp Survey Project](https://github.com/kathylam204/surveyform)
+- 
 - 
 
 ## Java
