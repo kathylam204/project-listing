@@ -2,24 +2,24 @@
 
 # 🗃️ Repo / Project Listing 🗃️
 
-## HTML
+### HTML
 - 
 
-## Javascript
+### Javascript
 - [Chess](https://github.com/kathylam204/chess)
 - [Coin Flip](https://github.com/kathylam204/coin-flip)
 - 
 
-## Java
+### Java
 - [Basic Calculator](https://github.com/kathylam204/calculator)
 - [Random Number Generator](https://github.com/kathylam204/numbergenerator)
 - 
 
-## Python
+### Python
 - [Password Generator](https://github.com/kathylam204/password-generator)
 - 
 
-## Free Code Camp
+### Free Code Camp
 - [FreeCodeCamp Survey Form Project](https://github.com/kathylam204/fccsurveyform)
 - [FreeCodeCamp Tribute Page Project](https://github.com/kathylam204/fcctributepage)
 - 
