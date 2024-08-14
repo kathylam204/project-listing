@@ -1,5 +1,5 @@
-## [🌼My Website🌼](https://kathylam204.github.io/)
-## [📓Notes📓](https://github.com/kathylam204/cs-notes)
+# [🌼My Website🌼](https://kathylam204.github.io/)
+# [📓Notes📓](https://github.com/kathylam204/cs-notes)
 
 # 🗃️ Repo / Project Listing 🗃️
 
