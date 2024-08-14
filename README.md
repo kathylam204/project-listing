@@ -12,8 +12,8 @@
 
 ## Javascript
 - [Chess](https://github.com/kathylam204/chess)
-- [Coin Flip](https://github.com/kathylam204/coin-flip)
-- 
+- [Coin Flip](https://github.com/kathylam204/coin-flip) 
+- [Pixel Art Maker](https://github.com/kathylam204/pixelart)
 
 ## Java
 - [Basic Calculator](https://github.com/kathylam204/calculator)
