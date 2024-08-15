@@ -10,12 +10,10 @@
 - [FreeCodeCamp Tribute Page Project](https://github.com/kathylam204/fcctributepage)
 - 
 
-## HTML
-- 
-
 ## Javascript
 - [Chess](https://github.com/kathylam204/chess)
-- [Coin Flip](https://github.com/kathylam204/coin-flip) 
+- [Coin Flip](https://github.com/kathylam204/coin-flip)
+- [Dice Roller](https://github.com/kathylam204/dice-roller)
 - [Pixel Art Maker](https://github.com/kathylam204/pixelart)
 
 ## Java
