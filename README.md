@@ -24,7 +24,7 @@
 - 
 
 ## Python
-- [Guess The Number Computer](https://github.com/kathylam204/guessthenumbercomp)
+- [Guess The Number](https://github.com/kathylam204/guessthenumber)
 - [Password Generator](https://github.com/kathylam204/password-generator)
 - [Simple Madlib](https://github.com/kathylam204/simplemadlib)
 - 
