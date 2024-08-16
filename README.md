@@ -4,6 +4,7 @@
 # 🗃️ Repo / Project Listing 🗃️
 
 ## Free Code Camp
+- [FreeCodeCamp Personal Portfolio Project](https://github.com/kathylam204/fccpersonalportfolio)
 - [FreeCodeCamp Product Landing Page Project](https://github.com/kathylam204/fccproductlanding)
 - [FreeCodeCamp Survey Form Project](https://github.com/kathylam204/fccsurveyform)
 - [FreeCodeCamp Technical Document Project](https://github.com/kathylam204/fcctechnicaldoc)
