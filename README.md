@@ -13,6 +13,7 @@
 - 
 
 ## Javascript
+- [Age Calculator](https://github.com/kathylam204/agecalculator)
 - [Chess](https://github.com/kathylam204/chess)
 - [Coin Flip](https://github.com/kathylam204/coin-flip)
 - [Dice Roller](https://github.com/kathylam204/dice-roller)
