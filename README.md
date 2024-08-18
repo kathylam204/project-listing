@@ -27,6 +27,7 @@
 ## Python
 - [Guess The Number](https://github.com/kathylam204/guessthenumber)
 - [Password Generator](https://github.com/kathylam204/password-generator)
+- [Rock Paper Scissors](https://github.com/kathylam204/rockpaperscissors)
 - [Simple Madlib](https://github.com/kathylam204/simplemadlib)
 - 
 
