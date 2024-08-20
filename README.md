@@ -17,6 +17,7 @@
 - [Coin Flip](https://github.com/kathylam204/coin-flip)
 - [Dice Roller](https://github.com/kathylam204/dice-roller)
 - [Pixel Art Maker](https://github.com/kathylam204/pixelart)
+- [Planet Weights](https://github.com/kathylam204/planetweights)
 
 ## 📝Java📝
 - [Basic Calculator](https://github.com/kathylam204/calculator)
