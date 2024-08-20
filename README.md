@@ -1,9 +1,8 @@
 # [🌼My Website🌼](https://kathylam204.github.io/)
 # [📓Notes📓](https://github.com/kathylam204/cs-notes)
+# 🗃️Repo / Project Listing🗃️
 
-# 🗃️ Repo / Project Listing 🗃️
-
-## Free Code Camp
+## 📝Free Code Camp📝
 - [FreeCodeCamp Palindrome Check Project](https://github.com/kathylam204/fccpalindromecheck)
 - [FreeCodeCamp Personal Portfolio Project](https://github.com/kathylam204/fccpersonalportfolio)
 - [FreeCodeCamp Product Landing Page Project](https://github.com/kathylam204/fccproductlanding)
@@ -12,19 +11,19 @@
 - [FreeCodeCamp Tribute Page Project](https://github.com/kathylam204/fcctributepage)
 - 
 
-## Javascript
+## 📝Javascript📝
 - [Age Calculator](https://github.com/kathylam204/agecalculator)
 - [Chess](https://github.com/kathylam204/chess)
 - [Coin Flip](https://github.com/kathylam204/coin-flip)
 - [Dice Roller](https://github.com/kathylam204/dice-roller)
 - [Pixel Art Maker](https://github.com/kathylam204/pixelart)
 
-## Java
+## 📝Java📝
 - [Basic Calculator](https://github.com/kathylam204/calculator)
 - [Random Number Generator](https://github.com/kathylam204/numbergenerator)
 - 
 
-## Python
+## 📝Python📝
 - [Guess The Number](https://github.com/kathylam204/guessthenumber)
 - [Password Generator](https://github.com/kathylam204/password-generator)
 - [Rock Paper Scissors](https://github.com/kathylam204/rockpaperscissors)
